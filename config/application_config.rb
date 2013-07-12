@@ -1,6 +1,6 @@
 configuration = {
 
-  :app_host => "example.com", #override this in your application.yml
+  :app_host => "thescholarspage.herokuapp.com", #override this in your application.yml
 
   :community_name => "Community",
 
